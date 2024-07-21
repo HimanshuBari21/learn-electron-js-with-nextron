@@ -1,12 +1,13 @@
 import React from "react";
 import Head from "next/head";
 
-export default function NextPage() {
+export default function Page() {
   return (
     <>
       <Head>
-        <title></title>
+        <title>Himanshu Bari</title>
       </Head>
+      <h1>Hello, World!</h1>
     </>
   );
 }
